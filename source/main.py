@@ -9,4 +9,3 @@ print("Dron")
 print("Erik")
 2*2
 2*2
-2*2
