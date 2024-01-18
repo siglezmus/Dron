@@ -7,4 +7,4 @@ print("Dron")
 print("Erik")
 print("Dron")
 print("Erik")
-q
+2*2
